@@ -1,0 +1,34 @@
+name: Bug report
+description: Something in Match Garden did not work as expected.
+title: "[Bug]: "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Tell us what happened and what you expected instead.
+    validations:
+      required: true
+  - type: input
+    id: level
+    attributes:
+      label: Level and game mode
+      placeholder: "Level 48, Campaign, Classic"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. Start the level..."
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Device, operating system, and game or Unity version
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshots, recordings, or relevant error messages
+      description: Remove personal information and credentials before attaching logs.

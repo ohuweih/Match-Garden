@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 0db5c927d85cf8a40b6633f7461c0ed1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3879831529878966461
+    second: GardenFrost_0
+  - first:
+      213: -2505985946649629591
+    second: GardenFrost_1
+  - first:
+      213: 1483120358820573472
+    second: GardenFrost_2
+  - first:
+      213: -1018717563698243552
+    second: GardenFrost_3
+  - first:
+      213: -2893296485776239802
+    second: GardenFrost_4
+  - first:
+      213: 1582865154740507573
+    second: GardenFrost_5
+  - first:
+      213: 8002835599556392775
+    second: GardenFrost_6
+  - first:
+      213: -5574186678856816723
+    second: GardenFrost_7
+  - first:
+      213: -5122249373058277026
+    second: GardenFrost_8
+  - first:
+      213: -5590100016407603276
+    second: GardenFrost_9
+  - first:
+      213: 1171691460410833570
+    second: GardenFrost_10
+  - first:
+      213: -4249224404933077834
+    second: GardenFrost_11
+  - first:
+      213: 848894198339517238
+    second: GardenFrost_12
+  - first:
+      213: 1697401197582834116
+    second: GardenFrost_13
+  - first:
+      213: -1110319447082028448
+    second: GardenFrost_14
+  - first:
+      213: 410490451729294973
+    second: GardenFrost_15
+  - first:
+      213: -5356747538212668998
+    second: GardenFrost_16
+  - first:
+      213: 1036671582924038519
+    second: GardenFrost_17
+  - first:
+      213: 578687503454981365
+    second: GardenFrost_18
+  - first:
+      213: -6648757587797586730
+    second: GardenFrost_19
+  - first:
+      213: 4440920740490026841
+    second: GardenFrost_20
+  - first:
+      213: -5930326060793360068
+    second: GardenFrost_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1037.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GardenFrost_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1249
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0dbce583ee7d530800000000000000
+      internalID: 3879831529878966461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenFrost_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1211
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ce3dd0f03f83dd0800000000000000
+      internalID: -2505985946649629591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenFrost_2
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1197
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02176a2cb1a159410800000000000000
+      internalID: 1483120358820573472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenFrost_3
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1229
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0289051f5c9ccd1f0800000000000000
+      internalID: -1018717563698243552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenFrost_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1207
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643db6fec22f8d7d0800000000000000
+      internalID: -2893296485776239802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenFrost_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1197
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3d6abc87777f510800000000000000
+      internalID: 1582865154740507573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenFrost_6
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1187
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747b863b398cf0f60800000000000000
+      internalID: 8002835599556392775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenFrost_7
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1191
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da76607bfb284a2b0800000000000000
+      internalID: -5574186678856816723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenFrost_8
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1184
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51e4e3855d1ae8b0800000000000000
+      internalID: -5122249373058277026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenFrost_9
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1163
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b79e1717a9fb62b0800000000000000
+      internalID: -5590100016407603276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenFrost_10
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 883
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa7524ec2fa24010800000000000000
+      internalID: 1171691460410833570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenFrost_11
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 722
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b41b05cae8b705c0800000000000000
+      internalID: -4249224404933077834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenFrost_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 535
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bbae796c0e7cb00800000000000000
+      internalID: 848894198339517238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenFrost_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 524
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c95f3f55616e8710800000000000000
+      internalID: 1697401197582834116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenFrost_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 521
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062b779785a5790f0800000000000000
+      internalID: -1110319447082028448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenFrost_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 306
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76a30714ea52b500800000000000000
+      internalID: 410490451729294973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenFrost_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 260
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9b269ce7209a5b0800000000000000
+      internalID: -5356747538212668998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenFrost_17
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 54
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771ede8ef4ff26e00800000000000000
+      internalID: 1036671582924038519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenFrost_18
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc4467e739e70800800000000000000
+      internalID: 578687503454981365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenFrost_19
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 23
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc44a5533edab3a0800000000000000
+      internalID: -6648757587797586730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenFrost_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 13
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f929c62e151ad30800000000000000
+      internalID: 4440920740490026841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenFrost_21
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 7
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c319b203edf33bda0800000000000000
+      internalID: -5930326060793360068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GardenFrost_0: 3879831529878966461
+      GardenFrost_1: -2505985946649629591
+      GardenFrost_10: 1171691460410833570
+      GardenFrost_11: -4249224404933077834
+      GardenFrost_12: 848894198339517238
+      GardenFrost_13: 1697401197582834116
+      GardenFrost_14: -1110319447082028448
+      GardenFrost_15: 410490451729294973
+      GardenFrost_16: -5356747538212668998
+      GardenFrost_17: 1036671582924038519
+      GardenFrost_18: 578687503454981365
+      GardenFrost_19: -6648757587797586730
+      GardenFrost_2: 1483120358820573472
+      GardenFrost_20: 4440920740490026841
+      GardenFrost_21: -5930326060793360068
+      GardenFrost_3: -1018717563698243552
+      GardenFrost_4: -2893296485776239802
+      GardenFrost_5: 1582865154740507573
+      GardenFrost_6: 8002835599556392775
+      GardenFrost_7: -5574186678856816723
+      GardenFrost_8: -5122249373058277026
+      GardenFrost_9: -5590100016407603276
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

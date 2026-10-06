@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: 6c1abeaccddb99f45bf56d9c91c4fc10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7188379661291461680
+    second: Modular Game Board Tile Asset Sheet_0
+  - first:
+      213: -3796984268254371624
+    second: Modular Game Board Tile Asset Sheet_1
+  - first:
+      213: 2220694382929266161
+    second: Modular Game Board Tile Asset Sheet_2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Modular Game Board Tile Asset Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 80
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0a3f0ece66e4bc0800000000000000
+      internalID: -3796984268254371624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modular Game Board Tile Asset Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 77
+        width: 140
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f525d3adcac46349a3663308cffb07c
+      internalID: 285583568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modular Game Board Tile Asset Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 75
+        width: 133
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a423fb34083527d40a17dc42c82add24
+      internalID: 645888318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modular Game Board Tile Asset Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 77
+        width: 123
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a804b37277096744eb64b9378ba87cb5
+      internalID: 597903547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modular Game Board Tile Asset Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 77
+        width: 121
+        height: 122
+      alignment: 9
+      pivot: {x: 0.51990086, y: 0.47039396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33aa7c1d86ecfd47857c321ae7290c3
+      internalID: -863802270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modular Game Board Tile Asset Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 253
+        width: 140
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5d386a8e8a98a45a18a9f8921a161e
+      internalID: -852135409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modular Game Board Tile Asset Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 254
+        width: 96
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6191962030ade574c8d03bcf24ba5c7f
+      internalID: -1231587789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modular Game Board Tile Asset Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 254
+        width: 95
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395238f208533274f8f45e87cc5a5863
+      internalID: 1436147192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modular Game Board Tile Asset Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 254
+        width: 129
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3062f706d0723a24eaa018b3e6f59d54
+      internalID: 44458994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modular Game Board Tile Asset Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 334
+        width: 171
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56c3e0c4d8846047b1dd7d917e08e15
+      internalID: 624071785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modular Game Board Tile Asset Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 283
+        width: 171
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e94469ad7478447b035820d340d9d7
+      internalID: -869602652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modular Game Board Tile Asset Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 260
+        width: 36
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbbf61dbc4f51d4ab15a4ffe53603bb
+      internalID: -460245598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modular Game Board Tile Asset Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 260
+        width: 36
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57cf520d2eb1c3498f5b48a7ab30dc9
+      internalID: -1067751211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4fbdc3609c1318144b1b55c516019f2e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Modular Game Board Tile Asset Sheet_0: -7188379661291461680
+      Modular Game Board Tile Asset Sheet_1: -3796984268254371624
+      Modular Game Board Tile Asset Sheet_10: -852135409
+      Modular Game Board Tile Asset Sheet_11: -1231587789
+      Modular Game Board Tile Asset Sheet_12: 1436147192
+      Modular Game Board Tile Asset Sheet_13: 44458994
+      Modular Game Board Tile Asset Sheet_14: 624071785
+      Modular Game Board Tile Asset Sheet_15: -869602652
+      Modular Game Board Tile Asset Sheet_16: -460245598
+      Modular Game Board Tile Asset Sheet_17: -1067751211
+      Modular Game Board Tile Asset Sheet_2: 2220694382929266161
+      Modular Game Board Tile Asset Sheet_3: 1182498172
+      Modular Game Board Tile Asset Sheet_4: 701790453
+      Modular Game Board Tile Asset Sheet_5: 1054353630
+      Modular Game Board Tile Asset Sheet_6: 285583568
+      Modular Game Board Tile Asset Sheet_7: 645888318
+      Modular Game Board Tile Asset Sheet_8: 597903547
+      Modular Game Board Tile Asset Sheet_9: -863802270
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

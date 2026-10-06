@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 394c46c705644d0ab375aadba9b4075e, type: 3}
+  m_Name: Level93
+  m_EditorClassIdentifier: Assembly-CSharp::LevelDefinition
+  levelId: 06ffcdd32de9fe94aafcb12e479d8ee5
+  settings:
+    Width: 8
+    Height: 8
+    Shape: 0
+    RefillMode: 2
+    BlockedCells:
+    - {x: 0, y: 0}
+    - {x: 7, y: 0}
+    - {x: 0, y: 7}
+    - {x: 7, y: 7}
+    LockedCells: []
+    MatchesToUnlock: 1
+    Packages:
+      Enabled: 1
+      SpawnMode: 1
+      ChancePercent: 20
+      PlayerMovesPerSpawn: 5
+      MaxActivePackages: 2
+      Contents:
+      - Content: 2
+        Weight: 2
+      - Content: 3
+        Weight: 2
+      - Content: 4
+        Weight: 2
+      - Content: 5
+        Weight: 1
+      - Content: 6
+        Weight: 1
+      BirdTravelDistance: 8
+      FrostMachineHits: 2
+      FrostMachineMovesPerSpawn: 1
+    Generators: []
+    FrostCells: []
+    ColorRarity:
+    - Color: 3
+      Tier: 1
+    - Color: 2
+      Tier: 2
+    - Color: 1
+      Tier: 3
+    - Color: 5
+      Tier: 4
+    - Color: 4
+      Tier: 5
+    - Color: 0
+      Tier: 6
+    PointsPerPiece: 10
+    AwardOpeningPoints: 1
+    UseMoveLimit: 1
+    MoveLimit: 66
+    CountOpeningCascadesForObjectives: 1
+    Objectives:
+    - Type: 0
+      Target: 3030
+      Color: 0
+    - Type: 1
+      Target: 29
+      Color: 2
+    - Type: 3
+      Target: 1
+      Color: 0
+    MovableObjectiveCells:
+    - {x: 2, y: 5}
+    DefaultBirdRescue:
+      Condition: 0
+      RequiredDistance: 6
+      Destination: {x: 0, y: 0}
+    BirdRescueOverrides: []
+    CascadeBonus:
+      Enabled: 1
+      TriggerCascades: 8
+      BonusMoves: 5
